@@ -14,9 +14,16 @@
 
 一、基础入门
 
-- [ ] [《ECMAScript 6入门》](https://github.com/ruanyf/es6tutorial)@阮一峰
+- [ ] [《ECMAScript 6 教程》](https://wangdoc.com/es6)@阮一峰
+- [ ] [《JavaScript 教程》](https://github.com/wangdoc/javascript-tutorial)@阮一峰
+- [ ] [《现代 JavaScript 教程》](https://github.com/javascript-tutorial/zh.javascript.info)
+- [ ] [《JavaScript 教程》](https://www.liaoxuefeng.com/wiki/1022910821149312)@廖雪峰
 - [ ] [《前端入门到进阶》](https://github.com/qianguyihao/Web)
+- [ ] [《2018级JavaScript课程资料》](https://github.com/liuxiumei123/javascript-advanced)
+- [ ] [《朱安邦的 JavaScript 学习笔记》](https://github.com/anbang/javascript-notes)
+- [ ] [《JavaScript 权威教程》](https://github.com/jikexueyuanwiki/javascript-bak)
 - [ ] [《Node.js 实践教程》](https://github.com/ElemeFE/node-practice)
+- [ ] [《我的JavaScript是一朵三叶草》](https://github.com/Webchange/My-JavaScript-is-a-clover)
 
 二、高手进阶
 
@@ -37,6 +44,10 @@
 六、其他资源
 
 - [ ] https://github.com/airbnb/javascript
+- [ ] https://github.com/yzsunlei/awesome-web-tutorial
+- [ ] https://github.com/poetries/javascript-tutorial
+- [ ] https://github.com/liulongbiao/knockout-reference-cn
+- [ ] https://github.com/Webchange/My-JavaScript-is-a-clover
 
 ## 0x02-JavaScript项目
 
@@ -51,3 +62,5 @@
 ## 0x04-JavaScript安全
 
 ## 0x05-JavaScript老师
+
+- [阮一峰](http://www.ruanyifeng.com/)

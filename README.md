@@ -19,6 +19,7 @@
 - [ ] [《现代 JavaScript 教程》](https://github.com/javascript-tutorial/zh.javascript.info)
 - [ ] [《JavaScript 教程》](https://www.liaoxuefeng.com/wiki/1022910821149312)@廖雪峰
 - [ ] [《前端入门到进阶》](https://github.com/qianguyihao/Web)
+- [ ] [《JavaScript 权威指南第七版》](https://github.com/gdut-yy/JavaScript-The-Definitive-Guide-7th-zh)
 - [ ] [《2018级JavaScript课程资料》](https://github.com/liuxiumei123/javascript-advanced)
 - [ ] [《朱安邦的 JavaScript 学习笔记》](https://github.com/anbang/javascript-notes)
 - [ ] [《JavaScript 权威教程》](https://github.com/jikexueyuanwiki/javascript-bak)
@@ -35,7 +36,20 @@
 
 四、实体书籍
 
-- [ ] https://github.com
+- [ ] [《JavaScript权威指南》]()
+- [ ] [《你不知道的JavaScript》]()
+- [ ] [《深入理解JavaScript》]()
+- [ ] [《高性能JavaScript》]()
+- [ ] [《JavaScript忍者秘籍》]()
+- [ ] [《JavaScript编程精解》]()
+- [ ] [《JavaScript语言精粹》](https://item.jd.com/11090963.html)
+- [ ] [《你不知道的JavaScript》]()
+- [ ] [《JavaScript高级程序设计》]()
+- [ ] [《JavaScript DOM编程艺术》]()
+- [ ] [《了不起的JavaScript工程师》]()
+- [ ] [《学习JavaScript数据结构与算法》]()
+- [ ] [《JavaScript语言精髓与编程实践》]()
+
 
 五、视频教程
 
@@ -44,8 +58,9 @@
 六、其他资源
 
 - [ ] https://github.com/airbnb/javascript
-- [ ] https://github.com/yzsunlei/awesome-web-tutorial
+- [ ] https://github.com/mqyqingfeng/Blog
 - [ ] https://github.com/poetries/javascript-tutorial
+- [ ] https://github.com/yzsunlei/awesome-web-tutorial
 - [ ] https://github.com/liulongbiao/knockout-reference-cn
 - [ ] https://github.com/Webchange/My-JavaScript-is-a-clover
 

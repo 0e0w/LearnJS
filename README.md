@@ -1,14 +1,14 @@
 # LearnJavaScript
 
-本项目记录自己在学习JavaScript的过程中遇到的一些优秀内容，包括JavaScript的相关学习资源以及JavaScript的优秀项目代码等。尽可能的去理解JavaScript，尽可能的去学习前端知识。作者：[0e0w](https://github.com/0e0w/LearnJavaScript)
+本项目记录自己在学习JavaScript的过程中遇到的一些优秀内容，包括JavaScript的相关学习资源以及JavaScript的优秀项目代码等。尽可能的去理解JavaScript，尽可能的去使用JavaScript。作者：[0e0w](https://github.com/0e0w/LearnJavaScript)
 
-本项目创建于2020年11月12日。最近一次更新时间为11月13日。
+本项目创建于2020年11月12日。最近一次更新时间为11月16日。
 
-- [0x01-JavaScript资源]()
-- [0x02-JavaScript项目]()
-- [0x03-JavaScript框架]()
-- [0x04-JavaScript安全]()
-- [0x05-JavaScript老师]()
+- [0x01-JavaScript资源](https://github.com/0e0w/LearnJavaScript#0x01-javascript%E8%B5%84%E6%BA%90)
+- [0x02-JavaScript项目](https://github.com/0e0w/LearnJavaScript#0x02-javascript%E9%A1%B9%E7%9B%AE)
+- [0x03-JavaScript框架](https://github.com/0e0w/LearnJavaScript#0x03-javascript%E6%A1%86%E6%9E%B6)
+- [0x04-JavaScript安全](https://github.com/0e0w/LearnJavaScript#0x04-javascript%E5%AE%89%E5%85%A8)
+- [0x05-JavaScript老师](https://github.com/0e0w/LearnJavaScript#0x05-javascript%E8%80%81%E5%B8%88)
 
 ## 0x01-JavaScript资源
 
@@ -75,6 +75,8 @@
 - [ ] https://github.com
 
 ## 0x04-JavaScript安全
+
+- [ ] https://github.com/Passer6y/CrawlerVuln
 
 ## 0x05-JavaScript老师
 

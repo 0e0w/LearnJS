@@ -69,6 +69,7 @@
 - [ ] https://github.com/sorrycc/awesome-javascript
 - [ ] https://github.com/jobbole/awesome-javascript-cn
 - [ ] https://github.com/micromata/awesome-javascript-learning
+- [ ] https://github.com/sxei/chrome-plugin-demo
 
 ## 0x03-JavaScript框架
 

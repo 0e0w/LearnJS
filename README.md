@@ -32,7 +32,7 @@
 
 三、算法学习
 
-- [ ] https://github.com
+- [ ] [《javascript-algorithms》](https://github.com/trekhleb/javascript-algorithms)
 
 四、实体书籍
 
@@ -72,6 +72,9 @@
 - [ ] https://github.com/sxei/chrome-plugin-demo
 - [ ] https://github.com/doocs/md
 - [ ] https://github.com/googleprojectzero/fuzzilli
+- [ ] https://github.com/AutoPiano/AutoPiano
+- [ ] https://github.com/evanw/esbuild
+- [ ] https://github.com/samyk/webscan
 
 ## 0x03-JavaScript框架
 

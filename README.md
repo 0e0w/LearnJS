@@ -2,7 +2,7 @@
 
 本项目记录自己在学习JavaScript的过程中遇到的一些优秀内容，包括JavaScript的学习资源以及JavaScript的优秀项目代码等。尽可能的去理解JavaScript，尽可能的去使用JavaScript。作者：[0e0w](https://github.com/0e0w/LearnJavaScript)
 
-本项目创建于2020年11月12日。最近一次更新时间为2021年4月13日。
+本项目创建于2020年11月12日。最近一次更新时间为2021年4月16日。
 
 - [0x01-JavaScript资源](https://github.com/0e0w/LearnJavaScript#0x01-javascript%E8%B5%84%E6%BA%90)
 - [0x02-JavaScript项目](https://github.com/0e0w/LearnJavaScript#0x02-javascript%E9%A1%B9%E7%9B%AE)
@@ -99,6 +99,7 @@
 - [ ] https://github.com/r00tSe7en/GoogleHackingTool
 - [ ] https://github.com/CreditTone/hooker
 - [ ] https://github.com/hu-jinwen/jsrepair
+- [ ] https://github.com/r3curs1v3-pr0xy/vajra
 
 ## 0x05-JavaScript老师
 

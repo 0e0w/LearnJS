@@ -2,7 +2,7 @@
 
 本项目记录自己在学习JavaScript的过程中遇到的一些优秀内容，包括JavaScript的学习资源以及JavaScript的优秀项目代码等。尽可能的去理解JavaScript，尽可能的去使用JavaScript。作者：[0e0w](https://github.com/0e0w/LearnJavaScript)
 
-本项目创建于2020年11月12日。最近一次更新时间为2021年5月6日。
+本项目创建于2020年11月12日。最近一次更新时间为2021年5月25日。
 
 - [0x01-JavaScript资源](https://github.com/0e0w/LearnJavaScript#0x01-javascript%E8%B5%84%E6%BA%90)
 - [0x02-JavaScript项目](https://github.com/0e0w/LearnJavaScript#0x02-javascript%E9%A1%B9%E7%9B%AE)
@@ -25,6 +25,7 @@
 - [ ] [《JavaScript 权威教程》](https://github.com/jikexueyuanwiki/javascript-bak)
 - [ ] [《Node.js 实践教程》](https://github.com/ElemeFE/node-practice)
 - [ ] [《我的JavaScript是一朵三叶草》](https://github.com/Webchange/My-JavaScript-is-a-clover)
+- [ ] [《JavaScript 二十年》](https://github.com/doodlewind/jshistory-cn)@doodlewind
 
 二、高手进阶
 

@@ -2,7 +2,7 @@
 
 本项目记录自己在学习JavaScript的过程中遇到的一些优秀内容，包括JavaScript的学习资源以及JavaScript的优秀项目代码等。尽可能的去理解JavaScript，尽可能的去使用JavaScript。作者：[0e0w](https://github.com/0e0w/LearnJavaScript)
 
-本项目创建于2020年11月12日。最近一次更新时间为2021年11月7日。
+本项目创建于2020年11月12日。最近一次更新时间为2021年11月12日。
 
 - [0x01-JavaScript资源](https://github.com/0e0w/LearnJavaScript#0x01-javascript%E8%B5%84%E6%BA%90)
 - [0x02-JavaScript项目](https://github.com/0e0w/LearnJavaScript#0x02-javascript%E9%A1%B9%E7%9B%AE)
@@ -12,12 +12,12 @@
 
 ## 0x01-JavaScript资源
 
-一、基础入门
-
+一、书籍资源
 - [ ] [《ECMAScript 6 教程》](https://wangdoc.com/es6)@阮一峰
 - [ ] [《JavaScript 教程》](https://github.com/wangdoc/javascript-tutorial)@阮一峰
 - [ ] [《现代 JavaScript 教程》](https://github.com/javascript-tutorial/zh.javascript.info)
 - [ ] [《JavaScript 教程》](https://www.liaoxuefeng.com/wiki/1022910821149312)@廖雪峰
+- [ ] [《JavaScript百炼成仙》](https://m.zhangyue.com/readbook/12567484/5.html)@杨逸飞
 - [ ] [《前端入门到进阶》](https://github.com/qianguyihao/Web)
 - [ ] [《JavaScript 权威指南第七版》](https://github.com/gdut-yy/JavaScript-The-Definitive-Guide-7th-zh)
 - [ ] [《2018级JavaScript课程资料》](https://github.com/liuxiumei123/javascript-advanced)
@@ -26,17 +26,6 @@
 - [ ] [《Node.js 实践教程》](https://github.com/ElemeFE/node-practice)
 - [ ] [《我的JavaScript是一朵三叶草》](https://github.com/Webchange/My-JavaScript-is-a-clover)
 - [ ] [《JavaScript 二十年》](https://github.com/doodlewind/jshistory-cn)@doodlewind
-
-二、高手进阶
-
-- [ ] https://github.com
-
-三、算法学习
-
-- [ ] [《javascript-algorithms》](https://github.com/trekhleb/javascript-algorithms)
-
-四、实体书籍
-
 - [ ] [《JavaScript权威指南》]()
 - [ ] [《你不知道的JavaScript》]()
 - [ ] [《深入理解JavaScript》]()
@@ -51,12 +40,13 @@
 - [ ] [《学习JavaScript数据结构与算法》]()
 - [ ] [《JavaScript语言精髓与编程实践》]()
 
-
-五、视频教程
-
+二、视频教程
 - [ ] https://github.com
 
-六、其他资源
+三、算法结构
+- [ ] [《javascript-algorithms》](https://github.com/trekhleb/javascript-algorithms)
+
+四、其他资源
 
 - [ ] https://github.com/airbnb/javascript
 - [ ] https://github.com/mqyqingfeng/Blog

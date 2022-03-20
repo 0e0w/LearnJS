@@ -1,16 +1,16 @@
-# LearnJavaScript
+# LearnJS
 
 本项目记录自己在学习JavaScript的过程中遇到的一些优秀内容，包括JavaScript的学习资源以及JavaScript的优秀项目代码等。尽可能的去理解JavaScript，尽可能的去使用JavaScript。作者：[0e0w](https://github.com/0e0w/LearnJavaScript)
 
-本项目创建于2020年11月12日。最近一次更新时间为2022年1月7日。
+本项目创建于2020年11月12日。最近一次更新时间为2022年3月20日。
 
-- [0x01-JavaScript资源](https://github.com/0e0w/LearnJavaScript#0x01-javascript%E8%B5%84%E6%BA%90)
-- [0x02-JavaScript项目](https://github.com/0e0w/LearnJavaScript#0x02-javascript%E9%A1%B9%E7%9B%AE)
-- [0x03-JavaScript框架](https://github.com/0e0w/LearnJavaScript#0x03-javascript%E6%A1%86%E6%9E%B6)
-- [0x04-JavaScript安全](https://github.com/0e0w/LearnJavaScript#0x04-javascript%E5%AE%89%E5%85%A8)
-- [0x05-JavaScript老师](https://github.com/0e0w/LearnJavaScript#0x05-javascript%E8%80%81%E5%B8%88)
+- [01-JavaScript资源](https://github.com/0e0w/LearnJavaScript#01-javascript%E8%B5%84%E6%BA%90)
+- [02-JavaScript项目](https://github.com/0e0w/LearnJavaScript#02-javascript%E9%A1%B9%E7%9B%AE)
+- [03-JavaScript框架](https://github.com/0e0w/LearnJavaScript#03-javascript%E6%A1%86%E6%9E%B6)
+- [04-JavaScript安全](https://github.com/0e0w/LearnJavaScript#04-javascript%E5%AE%89%E5%85%A8)
+- [05-JavaScript老师](https://github.com/0e0w/LearnJavaScript#05-javascript%E8%80%81%E5%B8%88)
 
-## 0x01-JavaScript资源
+## 01-JavaScript资源
 
 一、书籍资源
 - [ ] [《ECMAScript 6 教程》](https://wangdoc.com/es6)@阮一峰
@@ -39,6 +39,7 @@
 - [ ] [《了不起的JavaScript工程师》]()
 - [ ] [《学习JavaScript数据结构与算法》]()
 - [ ] [《JavaScript语言精髓与编程实践》]()
+- [ ] https://github.com/Asabeneh/30-Days-Of-JavaScript
 
 二、视频教程
 - [ ] https://github.com
@@ -47,7 +48,6 @@
 - [ ] [《javascript-algorithms》](https://github.com/trekhleb/javascript-algorithms)
 
 四、其他资源
-
 - [ ] https://github.com/airbnb/javascript
 - [ ] https://github.com/mqyqingfeng/Blog
 - [ ] https://github.com/poetries/javascript-tutorial
@@ -57,7 +57,7 @@
 - [ ] https://github.com/moonad/Formality
 - [ ] https://github.com/lefex/FE
 
-## 0x02-JavaScript项目
+## 02-JavaScript项目
 
 - [ ] https://github.com/sorrycc/awesome-javascript
 - [ ] https://github.com/jobbole/awesome-javascript-cn
@@ -77,13 +77,13 @@
 - [ ] https://github.com/tnfe/awesome-blackmagic
 - [ ] https://github.com/seasonjs/tools
 
-## 0x03-JavaScript框架
+## 03-JavaScript框架
 
 - [ ] https://github.com/stylelint/stylelint
 - [ ] https://github.com/sindresorhus/meow
 - [ ] https://github.com/YYJeffrey/wxutil
 
-## 0x04-JavaScript安全
+## 04-JavaScript安全
 
 - [ ] https://github.com/Passer6y/CrawlerVuln
 - [ ] https://github.com/EtherDream/jsproxy
@@ -98,6 +98,6 @@
 - [ ] https://github.com/hu-jinwen/jsrepair
 - [ ] https://github.com/r3curs1v3-pr0xy/vajra
 
-## 0x05-JavaScript老师
+## 05-JavaScript老师
 
 - [阮一峰](http://www.ruanyifeng.com/)
